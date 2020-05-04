@@ -1,0 +1,12 @@
+.box{
+   background: teal ;
+   max-width: 530px;
+   margin-top: 10px;
+   border-radius: 10px;
+}
+.nums{
+   max-width: 530px;
+}
+#data{
+   color: red;
+}
